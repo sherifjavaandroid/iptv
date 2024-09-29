@@ -1,0 +1,113 @@
+PODS:
+  - azul_envato_checker (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_vlc_player (3.0.3):
+    - Flutter
+    - MobileVLCKit (~> 3.6.0b12)
+  - Google-Mobile-Ads-SDK (11.2.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (5.1.0):
+    - Flutter
+    - Google-Mobile-Ads-SDK (~> 11.2.0)
+    - webview_flutter_wkwebview
+  - GoogleUserMessagingPlatform (2.5.0)
+  - MobileVLCKit (3.6.1b1)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - perfect_volume_control (0.0.1):
+    - Flutter
+  - screen_brightness_util_ios (0.0.1):
+    - Flutter
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - wakelock (0.0.1):
+    - Flutter
+  - wakelock_plus (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - azul_envato_checker (from `.symlinks/plugins/azul_envato_checker/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_vlc_player (from `.symlinks/plugins/flutter_vlc_player/ios`)
+  - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - perfect_volume_control (from `.symlinks/plugins/perfect_volume_control/ios`)
+  - screen_brightness_util_ios (from `.symlinks/plugins/screen_brightness_util_ios/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - wakelock_plus (from `.symlinks/plugins/wakelock_plus/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - MobileVLCKit
+
+EXTERNAL SOURCES:
+  azul_envato_checker:
+    :path: ".symlinks/plugins/azul_envato_checker/ios"
+  Flutter:
+    :path: Flutter
+  flutter_vlc_player:
+    :path: ".symlinks/plugins/flutter_vlc_player/ios"
+  google_mobile_ads:
+    :path: ".symlinks/plugins/google_mobile_ads/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  perfect_volume_control:
+    :path: ".symlinks/plugins/perfect_volume_control/ios"
+  screen_brightness_util_ios:
+    :path: ".symlinks/plugins/screen_brightness_util_ios/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  wakelock_plus:
+    :path: ".symlinks/plugins/wakelock_plus/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  azul_envato_checker: bfd1d93568112bbeb66b07f84b9ae51159d008ec
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_vlc_player: 68553dec38187c14a7800e6d27a30bf9b25b53bc
+  Google-Mobile-Ads-SDK: 5a6d005a6cb5b5e8f4c7b69ca05cdea79c181139
+  google_mobile_ads: 9379c80fdfa9988fb0e105a407890ff8deb3cf86
+  GoogleUserMessagingPlatform: 6b4f48a370e77ce121d034c908cc6ee4fdafaf13
+  MobileVLCKit: 2d9c7c373393ae43086aeeff890bf0b1afc15c5c
+  package_info_plus: 58f0028419748fad15bf008b270aaa8e54380b1c
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  perfect_volume_control: 79b165ecd79d6ee20e60bf15534de61ebf3bb5f3
+  screen_brightness_util_ios: 7f58bcc763216728ce7105f9259e43d088a54a1b
+  sqflite: 673a0e54cc04b7d6dba8d24fb8095b31c3a99eec
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  video_player_avfoundation: 7c6c11d8470e1675df7397027218274b6d2360b3
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+  wakelock_plus: 78ec7c5b202cab7761af8e2b2b3d0671be6c4ae1
+  webview_flutter_wkwebview: be0f0d33777f1bfd0c9fdcb594786704dbf65f36
+
+PODFILE CHECKSUM: cc1f88378b4bfcf93a6ce00d2c587857c6008d3b
+
+COCOAPODS: 1.15.2
